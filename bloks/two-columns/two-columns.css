@@ -1,0 +1,12 @@
+.two-columns {
+    width: 80%;
+    display: flex;
+    margin: 100px auto 100px;
+    justify-content: space-between;
+    /* position: relative;
+    top: 100px;
+    bottom: 100px; */
+/*   
+       border: 1px solid red;
+    background-color: azure; */
+}

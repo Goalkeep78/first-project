@@ -1,0 +1,6 @@
+.cards__item {
+  width: 240px;
+  background-position: center;
+  background-size: cover;
+  order: 3;
+}
